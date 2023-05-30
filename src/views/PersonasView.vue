@@ -18,7 +18,7 @@ import personas from '../components/Personas.vue'
 }
 .fondo2
 {
-  background-color:#fbff00;
+  background-color:#fff7ed;
   width: 100%;
   display: inline-flex;
 }

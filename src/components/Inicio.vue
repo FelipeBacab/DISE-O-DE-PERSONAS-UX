@@ -4,16 +4,13 @@
         <div>
             <Item >
             <div class="text-2xl text-center" style="margin: 100px 300px 50px 300px">
-            <b>¿Qué hacemos en isclab?</b>
+            <h1>¿Pueden crear un sitio web gratuito para mi proyecto?</h1>
             </div>
             <div class="text-2xl text-justify text-center" style="margin: 100px 200px 50px 200px">
-            <h3>
+            <h3>La respuesta corta es sí.
         
-        Desarrollamos aplicaciones con fines de práctica, investigación y responsabilidad social.
-
-Buscamos el desarrollo de nuestros estudiantes a través de la creación de proyectos que sean útiles a la sociedad.
-
-¿Tienes un proyecto en mente? Compártelo con nosotros y buscaremos la manera de ayudarte</h3>
+        Claro que necesitamos saber en qué consiste el sitio que necesitas y tu historia para valorar el apoyo gratuito en la creación y publicación de tu sitio.
+        Averigua las condiciones de un sitio web gratuito para nosotros será un placer apoyarte</h3>
             </div>
             </Item>
             <Item>
@@ -36,7 +33,7 @@ Buscamos el desarrollo de nuestros estudiantes a través de la creación de proy
    
     <div class="flex" >
             <Item>
-            <div class="max-w-sm rounded overflow-hidden shadow-lg w-96 " style="margin: 0px 200px 0px 200px">
+            <div class="max-w-sm rounded overflow-hidden bg-blue-11000 shadow-lg shadow-cyan-500/50" style="margin: 0px 200px 0px 200px">
             <img class="w-full" src="https://d500.epimg.net/cincodias/imagenes/2015/11/20/lifestyle/1448037563_041957_1448037621_noticia_normal.jpg" alt="Sunset in the mountains">
             <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">"Sitio web"</div>
@@ -58,7 +55,7 @@ Buscamos el desarrollo de nuestros estudiantes a través de la creación de proy
             </Item>
     
             <Item>
-            <div class="max-w-sm rounded overflow-hidden shadow-lg w-96">
+            <div class="max-w-sm rounded overflow-hidden bg-indigo-11000 shadow-lg shadow-cyan-500/50">
             <img class="w-full" src="https://www.fuegoyamana.com/wp-content/uploads/2017/04/aplicaci%C3%B3n-web-y-de-escritorio-01.jpg">
             <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">"Aplicación web"</div>
@@ -78,13 +75,58 @@ Buscamos el desarrollo de nuestros estudiantes a través de la creación de proy
             </div>
    
          </Item>
+
+          
    
    </div>
+   
 
+       <Item>
+            <div class="max-w-sm rounded overflow-hidden bg-blue-11000 shadow-lg shadow-cyan-500/50" style="margin: 45px 200px 0px 200px">
+            <img class="w-full" src="https://d500.epimg.net/cincodias/imagenes/2015/11/20/lifestyle/1448037563_041957_1448037621_noticia_normal.jpg" alt="Sunset in the mountains">
+            <div class="px-6 py-4">
+            <div class="font-bold text-xl mb-2">"Sitio web"</div>
+            <div class="font-bold text-xl mb-2">Los sitios web son lo que conocemos comúnmente por "página web".</div>
+            <div class="font-bold text-xl mb-2">Es la solución adecuada para:</div>
+            <p class="text-gray-700 text-base">
+                Es la solución adecuada para:
+                <br>
+                -*-Promover servicios o productos
+                <br>
+                -*-Presentar contenidos o información al público
+                <br>
+                -*-Promover un negocio
+            </p>
+            </div>
+            
+            </div>
+    
+            </Item>
 
+            <Item>
+            <div class="max-w-sm rounded overflow-hidden bg-blue-11000 shadow-lg shadow-cyan-500/50 " style="margin: -620px 200px 200px 790px "> 
+            <img class="w-full" src="https://d500.epimg.net/cincodias/imagenes/2015/11/20/lifestyle/1448037563_041957_1448037621_noticia_normal.jpg" alt="Sunset in the mountains">
+            <div class="px-6 py-4">
+            <div class="font-bold text-xl mb-2">"Sitio web"</div>
+            <div class="font-bold text-xl mb-2">Los sitios web son lo que conocemos comúnmente por "página web".</div>
+            <div class="font-bold text-xl mb-2">Es la solución adecuada para:</div>
+            <p class="text-gray-700 text-base">
+                Es la solución adecuada para:
+                <br>
+                -*-Promover servicios o productos
+                <br>
+                -*-Presentar contenidos o información al público
+                <br>
+                -*-Promover un negocio
+            </p>
+            </div>
+            
+            </div>
+    
+            </Item>
 
     </div>
-
+           
     
    
    

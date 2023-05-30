@@ -189,17 +189,18 @@ export default {
 </script>
 
 <template>
+  
   <div class="font-sans">
     <div class="min-h-screen flex sm:justify-center bg-[#fff7ed]" >
       <div
         style="margin: 100px 10px 100px 10px"
-        class="rounded-3xl px-6 py-4 bg-[#A3BAB4] border"
+        class="rounded-3xl px-6 py-4 bg-[#a5f3fc] border"
       >
         <label
           for=""
           class="block mt-3 text-sm text-gray-700 text-center font-semibold"
         >
-          Registrato de ISCLAB
+          ISCLAB
         </label>
         <form class="mt-20 w-96">
           
