@@ -3,10 +3,10 @@
     <div >
         <div>
             <Item >
-            <div class="text-2xl text-center" style="margin: 100px 300px 50px 300px">
-            <h1>¿Pueden crear un sitio web gratuito para mi proyecto?</h1>
+            <div class="text-4xl font-bold italic "  style="margin: 100px 100px 50px 450px "  >
+            <h1>Laboratorio de sistemas y aplicaciones web email contacto@isclab.com.mx</h1>
             </div>
-            <div class="text-2xl text-justify text-center" style="margin: 100px 200px 50px 200px">
+            <div class="text-2xl font-style: italic" style="margin: 100px 200px 50px 200px">
             <h3>La respuesta corta es sí.
         
         Claro que necesitamos saber en qué consiste el sitio que necesitas y tu historia para valorar el apoyo gratuito en la creación y publicación de tu sitio.
