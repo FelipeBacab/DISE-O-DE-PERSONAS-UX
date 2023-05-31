@@ -18,7 +18,7 @@ import TheWelcome from '../components/Inicio.vue'
 }
 .fondo
 {
-  background: linear-gradient(to bottom, #fcfcfc 0%, #ffffff 100%);
+  background: linear-gradient(to bottom, #007bff5d -20%, #ffffff 100%);
   width: 100%;
   display: inline-flex;
 }
