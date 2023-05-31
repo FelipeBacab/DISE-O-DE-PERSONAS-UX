@@ -36,17 +36,23 @@
             <div class="max-w-sm rounded overflow-hidden bg-blue-11000 shadow-lg shadow-cyan-500/50" style="margin: 0px 200px 100px 150px">
             <img class="w-full" src="https://www.thatzblog.com/wp-content/uploads/2019/03/for-blog-4.gif" alt="Sunset in the mountains">
             <div class="px-6 py-4">
-            <div class="font-bold italic text-xl mb-2">"Sitio web"</div> 
-            <div class="font-bold italic text-xl mb-2">Los sitios web son lo que conocemos comúnmente por "página web".</div>
+            <div class="font-bold italic text-xl mb-2">Sitio web </div> 
+            <div class="font-bold italic text-xl mb-2">Los sitios web son lo que conocemos comúnmente por página web.</div>
             <div class="font-style: italic text-xl mb-2">Es la solución adecuada para:</div>
             <p class="text-gray-700 text-base">
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
                 Es la solución adecuada para:
                 <br>
-                -*-Promover servicios o productos
+                1.-Promover servicios o productos.
                 <br>
-                -*-Presentar contenidos o información al público
+                2.-Presentar contenidos o información al público.
                 <br>
-                -*-Promover un negocio
+                3.-Promover un negocio.
             </p>
             </div>
             
@@ -62,13 +68,19 @@
             <div class="font-bold italic  text-xl mb-2">Son como los sitios web, pero estos además pueden manipular datos.</div>
             <div class="font-style: italic  text-xl mb-2">Es la solución adecuada para:</div>
             <p class="text-gray-700 text-base">
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
                 Es la solución adecuada para:
                 <br>
-                -*-Registrar Usuarios 
+                1.-Registrar Usuarios 
                 <br>
-                -*-Mostrar información que cambia con el tiempo
+                2.-Mostrar información que cambia con el tiempo
                 <br>
-                -*-Realizar cálculos con información de los usuarios
+                3.-Realizar cálculos con información de los usuarios
             </p>
             </div>
             
@@ -88,13 +100,19 @@
             <div class="font-bold italic text-xl mb-2">¿Tienes un proyecto en mente?</div>
             <div class="font- italic text-xl mb-2">Compártelo con nosotros y buscaremos la manera de ayudarte.</div>
             <p class="text-gray-700 text-base">
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
                 Es la solución adecuada para:
                 <br>
-                -*-Promover servicios o productos
-                <br>
-                -*-Presentar contenidos o información al público
-                <br>
-                -*-Promover un negocio
+                
+                Desarrollamos aplicaciones con fines de práctica, investigación y responsabilidad social.
+
+Buscamos el desarrollo de nuestros estudiantes a través de la creación de proyectos que sean útiles a la sociedad.
+               
             </p>
             </div>
             
